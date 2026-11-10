@@ -25,3 +25,7 @@ dist-ssr
 *.vs
 
 *storybook.log
+
+# .NET / MSBuild build output
+[Bb]in/
+[Oo]bj/
